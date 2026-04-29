@@ -6,4 +6,4 @@
 	url = https://github.com/dandanheng/xiaozhi-esp32-server.git
 [submodule "xiaozhi-esp32"]
 	path = xiaozhi-esp32
-	url = https://github.com/78/xiaozhi-esp32.git
+	url = https://github.com/dandanheng/xiaozhi-esp32.git
