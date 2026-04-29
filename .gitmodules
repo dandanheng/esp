@@ -1,0 +1,9 @@
+[submodule "esp-idf"]
+	path = esp-idf
+	url = https://github.com/espressif/esp-idf.git
+[submodule "xiaozhi-esp32-server"]
+	path = xiaozhi-esp32-server
+	url = https://github.com/dandanheng/xiaozhi-esp32-server.git
+[submodule "xiaozhi-esp32"]
+	path = xiaozhi-esp32
+	url = https://github.com/78/xiaozhi-esp32.git

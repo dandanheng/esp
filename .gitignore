@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+.claude/
+.cursor/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# ESP-IDF build artifacts
+build/
+*.elf
+*.bin
+*.map
+*.a
+compile_commands.json
+build.ninja
+
+# Node.js
+node_modules/
+
+# Environment
+.env
+.venv/
+venv/
+env/
